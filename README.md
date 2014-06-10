@@ -6,9 +6,9 @@ This repository contains mojsart, a crowd-sourced music visualization engine. Th
 See the current version of mojsart [here](http://mojsart.com/).
 
 #### Screenshots
-![Visualize your collection](https://www.dropbox.com/s/bkm2zlbcx900s63/visualize.png)
-![Upload more songs](https://www.dropbox.com/s/ehwlehy05n83txv/upload.png)
-![Vote which songs are similar to you](https://www.dropbox.com/s/rl6xumukhohatop/vote.png)
+![Visualize your collection](https://flic.kr/p/nV9BUp)
+![Upload more songs](https://flic.kr/p/nXeaKR)
+![Vote which songs are similar to you](https://flic.kr/p/nVrM2x)
 
 #### Technologies Used
 Our application's tech stack is the following:
